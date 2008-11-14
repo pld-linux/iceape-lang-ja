@@ -4,7 +4,7 @@
 Summary:	Italian resources for Iceape
 Summary(pl.UTF-8):	Włoskie pliki językowe dla Iceape
 Name:		iceape-lang-%{_lang}
-Version:	1.1.12
+Version:	1.1.13
 Release:	1
 License:	MPL 1.1 or GPL v2+ or LGPL v2.1+
 Group:		I18n
